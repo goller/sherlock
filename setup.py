@@ -27,7 +27,6 @@ setup(
     install_requires=[
         'redis',
         'python-etcd',
-        'pylibmc',
     ],
     zip_safe = False,
     classifiers = [
